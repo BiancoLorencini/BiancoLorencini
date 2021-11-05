@@ -1,6 +1,6 @@
 ### Sejam bem vindos! 👋
 
-- 🔭 Estou atualmente trabalhando com dedicação total em aprendizagem e aprofundamento...
+- 🔭 Dedicação total em aprendizagem e aprofundamento...
 - 🌱 Estou aprendendo uma série de linguagens (sim gosto muito)
 - 👯 Desejo colaborar para o aprendizado (tanto meu quanto do próximo)
 
