@@ -1,7 +1,7 @@
 ### Sejam bem vindos! 👋
 
 - 🔭 Dedicação total em aprendizagem e aprofundamento...
-- 🌱 Estou aprendendo uma série de linguagens (sim gosto muito)
+- 🌱 Estou começando a aprender uma série de linguagens (sim gosto muito)
 - 👯 Desejo cria uma boa network e anseio por oportunidades!
 
 <div style="display: inline_block"><br>  
