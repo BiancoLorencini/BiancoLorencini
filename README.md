@@ -2,7 +2,7 @@
 
 - 🔭 Dedicação total em aprendizagem e aprofundamento...
 - 🌱 Estou aprendendo uma série de linguagens (sim gosto muito)
-- 👯 Desejo colaborar para o aprendizado (tanto meu quanto do próximo)
+- 👯 Desejo cria uma boa network e anseio por oportunidades!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lorencini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
