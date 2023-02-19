@@ -1,7 +1,7 @@
 ### Sejam bem vindos! 👋
 
-- 🔭 Dedicação total em aprendizagem e aprofundamento...
-- 🌱 Estou começando a aprender uma série de linguagens (sim gosto muito)
+- 🔭 Almejo exercer profissionalmente essa paixão que é programar/cria/resolver.
+- 🌱 Focado atualmente em Front-end.
 - 👯 Desejo cria uma boa network e anseio por oportunidades!
 
 <div style="display: inline_block"><br>  
