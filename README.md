@@ -1,8 +1,8 @@
 # Sejam bem vindos! 👋
 
-- 🔭 Almejo exercer profissionalmente essa paixão que é programar/cria/resolver.
-- 🌱 Focado atualmente em Front-end.
-- 👯 Desejo cria uma boa network e anseio por oportunidades!
+- 🔭 Procurando oportunidades de praticar/aprender, de maneira **profissional**
+- 🌱 Focado atualmente em **Front-end** (*Html-Css-Bootstrap-JavaScript-React-Angular-UI Design*)
+- 👯 Desejo cria uma boa network disposta e paciente para **ensinar/aprender**
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Lorencini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
