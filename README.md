@@ -1,4 +1,4 @@
-### Sejam bem vindos! 👋
+# Sejam bem vindos! 👋
 
 - 🔭 Almejo exercer profissionalmente essa paixão que é programar/cria/resolver.
 - 🌱 Focado atualmente em Front-end.
