@@ -1,8 +1,8 @@
 # Sejam bem vindos! 👋
 
-- 🔭 Procurando oportunidades de praticar/aprender, de maneira **profissional**
+- 🔭 Procurando oportunidades de praticar/aprender, de maneira **profissional** (Looking for opportunities to practice/learn professionally)
 - 🌱 Focado atualmente em **Front-end** (*Html-Css-Bootstrap-JavaScript-React-Angular-UI Design*)
-- 👯 Desejo cria uma boa network disposta e paciente para **ensinar/aprender**
+- 👯 Desejo cria uma boa network disposta e paciente para **ensinar/aprender** (Whishing to create a good network willing and patient to teach/learn)
 ***
 <div style="display: inline_block"><br>  
   <img align="center" alt="Lorencini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
