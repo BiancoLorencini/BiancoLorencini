@@ -1,4 +1,4 @@
-# Sejam bem vindos! 👋
+# Sejam Bem Vindos! 👋
 
 - 🔭 Procurando oportunidades de praticar/aprender, de maneira **profissional** (Looking for opportunities to practice/learn professionally)
 - 🌱 Focado atualmente em **Front-end** (*Html-Css-Bootstrap-JavaScript-React-Angular-UI Design*)
