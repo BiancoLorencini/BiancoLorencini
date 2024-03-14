@@ -1,7 +1,7 @@
 # Sejam Bem Vindos! 👋
 
 - 🔭 Procurando oportunidades de praticar/aprender, de maneira **profissional** (Looking for opportunities to practice/learn professionally)
-- 🌱 Focado atualmente em **Front-end** (*Html-Css-Bootstrap-JavaScript-React-Angular-Vue.js-Next-UI Design*)
+- 🌱 Focado atualmente em praticar e melhorar a logica!
 - 👯 Desejo criar uma boa network paciente e disposta para **ensinar/aprender** (Whishing to create a good network willing and patient to teach/learn)
 ***
 <div style="display: inline_block"><br>  
